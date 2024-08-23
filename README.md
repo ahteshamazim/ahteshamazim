@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Science in Python**
 
-- 👯 I’m looking to collaborate on **on open source contributions in web dev. fields**
+- 👯 I’m looking to collaborate on **open source contributions in web dev. fields**
 
 - 📫 How to reach me **ahteshammd94@gmail.com**
 
